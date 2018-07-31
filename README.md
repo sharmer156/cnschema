@@ -1,5 +1,6 @@
 # cnschema - 开放的中文知识图谱schema
-[]https://user-images.githubusercontent.com/638605/29693513-f096d406-88ea-11e7-952a-10b91bef0804.png
+[img]https://user-images.githubusercontent.com/638605/29693513-f096d406-88ea-11e7-952a-10b91bef0804.png
+
 cnSchema面向中文信息处理，利用先进的知识图谱、自然语言处理和机器学习技术，融合结构化与文本数据，支持快速领域知识建模，支持跨数据源、跨领域、跨语言的开放数据自动化处理，为智能机器人、语义搜索、智能计算等新兴应用市场提供schema层面的支持与服务。
 
 cnSchema的原则
